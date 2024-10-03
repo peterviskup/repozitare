@@ -12,3 +12,6 @@
 
 ## MVSR repozitáre
 [eID repozitár](https://eidas.minv.sk/download/)
+
+***
+[späť na úvodnú stránku](./)
