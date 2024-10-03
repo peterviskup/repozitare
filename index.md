@@ -10,4 +10,4 @@ Legislatívne predpisy o softvéri používanom vo verejnej správe.
 TBD
 
 # Zoznam repozitárov
-Zoznam repozitárov (./zoznam-repozitarov.html)
+[Zoznam repozitárov](./zoznam-repozitarov.html)
