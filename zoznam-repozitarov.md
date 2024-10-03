@@ -1,17 +1,16 @@
 # Zoznam repozitárov softvéru verejnej správy
+Zoznam repozitárov verejnej správy a ich URI liniek.
 
 ## MIRRISR repozitáre
-[GitHub Slovak-eGov](https://github.com/slovak-egov)
-
-[GitHub IDSK](https://github.com/id-sk)
-
-[GitHub Dátová kancelária](https://github.com/datova-kancelaria)
+- <https://github.com/slovak-egov>
+- <https://github.com/id-sk>
+- <https://github.com/datova-kancelaria>
 
 ### NASES repozitáre
-[GitHub NASES-sk](https://github.com/nases-sk)
+- <https://github.com/nases-sk>
 
 ## MVSR repozitáre
-[eID repozitár](https://eidas.minv.sk/download/)
+- <https://eidas.minv.sk/download/>
 
 ***
 [späť na úvodnú stránku](./)
