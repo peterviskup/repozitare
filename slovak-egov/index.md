@@ -54,3 +54,6 @@ Správca spravuje prístupy.
 #### SAST zdrojových kódov
 
 #### Archivácia zdrojových kódov
+
+***
+[späť na úvodnú stránku](./)
