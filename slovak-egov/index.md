@@ -21,4 +21,26 @@ Aktuálne neposkytuje rozširujúce DevOps služby.
 ### 
 
 ## Procesy
-### Pridelenie prístupu
+### Správa projektu
+#### Registrácia projektu
+Projektový manažér môže poslať žiadosť o registráciu projektu na <repozitare@mirri.gov.sk>.
+Požadované informácie:
+ - názov projektu
+ - kód MetaIS projektu
+ - kontakt na správcu zdrojových kódov pre projekt
+#### Zrušenie projektu
+Projektový manažér v prípade ukončenia projektu môže požiadať o zrušenie projektu v repozitári Slovak-eGov.
+Požadované informácie:
+ - názov projektu
+ - kód MetaIS projektu
+
+### Správa prístupov
+Správca 
+
+### Správa repozitárov zdrojových kódov
+
+#### Zverejnenie zdrojových kódov
+
+#### Skenovanie zdrojových kódov
+
+#### Archivácia zdrojových kódov
