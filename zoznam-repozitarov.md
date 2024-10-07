@@ -3,6 +3,7 @@ Zoznam repozitárov verejnej správy a ich URI liniek.
 
 ## MIRRISR repozitáre
 - <https://github.com/slovak-egov>
+  - [Správa repozitára Slovak-eGov](./slovak-egov/)
 - <https://github.com/id-sk>
 - <https://github.com/datova-kancelaria>
 
