@@ -14,5 +14,8 @@ Zoznam repozitárov verejnej správy a ich URI liniek.
 - <https://eidas.minv.sk/download/>
 - <https://github.com/eIDmSDK>
 
+## MŽPSR repozitáre ##
+- <https://gitlab.com/mzpsr>
+
 ***
 [späť na úvodnú stránku](./)
