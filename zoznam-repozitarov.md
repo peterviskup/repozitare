@@ -17,5 +17,15 @@ Zoznam repozitárov verejnej správy a ich URI liniek.
 ## MŽPSR repozitáre ##
 - <https://gitlab.com/mzpsr>
 
+## Samospráva ##
+- <https://github.com/bratislava>
+- <https://github.com/slovakia-kosice>
+
+## Ostatné ##
+- <https://github.com/OtvorenyParlament>
+- <https://github.com/slovensko-help/>
+- <https://github.com/Institut-zdravotnych-analyz>
+- <https://github.com/slovensko-digital>
+
 ***
 [späť na úvodnú stránku](./)
